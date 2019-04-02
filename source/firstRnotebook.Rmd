@@ -11,6 +11,8 @@ klkljlkj
 kjklj
 kkkkkkkkkk
 ```{r}
+data(cars)
+d<-cars
 plot(cars)
 ```
 
